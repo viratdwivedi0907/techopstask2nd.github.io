@@ -1,0 +1,93 @@
+*{
+
+    margin:0;
+    padding:0;
+}
+
+
+
+
+.vk{
+font-size: bold;
+background-color:grey;
+width:400px;
+height:100vh;
+font:bold ;
+
+
+
+}
+.vk nav{
+
+
+    padding:45 px;
+}
+.vk nav li{
+list-style: none;
+font: size 30px; 
+padding:33px ;
+
+
+}
+.vk nav li a{
+
+text-decoration:none;
+color: rgb(72, 5, 187);
+}
+.rituraj{
+
+    background-color: rgb(236, 236, 234);
+    width:90vw;
+}
+.kohli{
+    
+    display:flex;
+}
+.gaikwad{
+
+    background-image: https://www.cricket.com.au/-/media/News/2017/04/12kohlismile.ashx;
+    height:45vh;
+    width:80vw;
+    margin:144px auto;
+    display:flex;
+    justify-content:space-around;
+    font-family: 'Source Code Pro',monospace;
+}
+.devinfo{
+
+    display:flex;
+    justify content:center;
+    flex-direction: column;
+    font-family:'fira sans',sans-serif;
+}
+.hello{
+
+
+    font-size: 85px;
+}
+.name{
+    font-size: 70px;
+}
+
+.about{
+    font-size:50px;
+}
+.buttons{
+
+    margin-top: 34px;
+}
+.buttons button{
+    padding:9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+  font-weight: bold;
+  font-size: 21px;
+  margin: 0 3px ;
+}
+.trophy img{
+    height:70vh;
+    width:30vw;
+    
+
+}
